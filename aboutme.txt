@@ -1,2 +1,2 @@
 My Name is Phuldev Mandal.
-I'am a web Developer.
+I'am a frontend Developer.
